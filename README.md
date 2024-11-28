@@ -12,3 +12,4 @@ These are the things which are included inside this projects such as libraries a
 - And many other possibilities.
 # **Apologies**
 I am sorry for not able to create a UI for this interface but in near future I will create it
+https://github.com/Vaibhav-Tez-Shakya/Camscanner/blob/main/mlprojects.py
